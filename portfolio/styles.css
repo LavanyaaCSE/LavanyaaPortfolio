@@ -870,6 +870,10 @@ h3{
         margin-left:0%;
        padding-left:0%;
     }
+    .up3{
+        margin-left:0%;
+       padding-left:0%;
+    }
   .pro1, .pro2, .pro3, .pro4, .pro5, .pro6, .pro7, .pro8, .pro9, .pro10, .pro11{
     display: flex;
     flex-direction: column;
@@ -893,6 +897,10 @@ h3{
     margin-left: 0%;
           width:85%;
   }
+     .up3{
+        margin-left:0%;
+       padding-left:0%;
+    }
       .iconflex{
     justify-content: center;
     padding-left: 8%;
@@ -972,6 +980,10 @@ h3{
     margin-left: 0%;
           width:85%;
   }
+     .up3{
+        margin-left:0%;
+       padding-left:0%;
+    }
       .iconflex{
     justify-content: center;
     padding-left: 8%;
@@ -1043,6 +1055,10 @@ h3{
     margin-bottom: 0%;
     justify-content: center;
   }
+     .up3{
+        margin-left:0%;
+       padding-left:0%;
+    }
      .resume-wrap1, .resume-wrap2, .resume-wrap3, .resume-wrap4, .resume-wrap5, .resume-wrap6, .resume-wrap7, .resume-wrap8,.resume-wrap9, .resume-wrap10{
     margin-left: 0%;
           width:85%;
@@ -1118,6 +1134,10 @@ h3{
     margin-bottom: 0%;
     justify-content: center;
   }
+     .up3{
+        margin-left:0%;
+       padding-left:0%;
+    }
       .resume-wrap1, .resume-wrap2, .resume-wrap3, .resume-wrap4, .resume-wrap5, .resume-wrap6, .resume-wrap7, .resume-wrap8,.resume-wrap9, .resume-wrap10{
     margin-left: 0%;
           width:85%;
@@ -1166,6 +1186,7 @@ h3{
         margin-left:0%;
        padding-left:0%;
     }
+    
   .flexingcert{
     display: flex;
     flex-direction: column;
@@ -1194,7 +1215,11 @@ h3{
     margin-bottom: 0%;
     justify-content: center;
   }
-      .resume-wrap1, .resume-wrap2, .resume-wrap3, .resume-wrap4, .resume-wrap5, .resume-wrap6, .resume-wrap7, .resume-wrap8,.resume-wrap9, .resume-wrap10{
+     .up3{
+        margin-left:0%;
+       padding-left:0%;
+    }  
+    .resume-wrap1, .resume-wrap2, .resume-wrap3, .resume-wrap4, .resume-wrap5, .resume-wrap6, .resume-wrap7, .resume-wrap8,.resume-wrap9, .resume-wrap10{
     margin-left: 0%;
           width:85%;
   }
