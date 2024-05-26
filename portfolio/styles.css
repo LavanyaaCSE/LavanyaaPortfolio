@@ -862,8 +862,12 @@ h3{
       margin-left:0%;
       padding-left:0%
   }
-    .up1, .up2, .up3 img{
+    .up1, .up2 img{
           margin-left:0%;
+       padding-left:0%;
+    }
+    .up3 img{
+        margin-left:0%;
        padding-left:0%;
     }
   .pro1, .pro2, .pro3, .pro4, .pro5, .pro6, .pro7, .pro8, .pro9, .pro10, .pro11{
@@ -929,7 +933,11 @@ h3{
             margin-left:0%;
       padding-left:0%;
   }
-     .up1, .up2, .up3 img{
+     .up1, .up2 img{
+        margin-left:0%;
+       padding-left:0%;
+    }
+      .up3 img{
         margin-left:0%;
        padding-left:0%;
     }
@@ -1004,8 +1012,12 @@ h3{
             margin-left:0%;
       padding-left:0%;
   }
-     .up1, .up2, .up3 img{
+     .up1, .up2 img{
        margin-left:0%;
+       padding-left:0%;
+    }
+      .up3 img{
+        margin-left:0%;
        padding-left:0%;
     }
   .aviflex{
@@ -1086,8 +1098,12 @@ h3{
             margin-left:0%;
       padding-left:0%;
   }
-     .up1, .up2, .up3 img{
+     .up1, .up2 img{
           margin-left:0%;
+       padding-left:0%;
+    }
+      .up3 img{
+        margin-left:0%;
        padding-left:0%;
     }
   .details h1{
@@ -1142,8 +1158,12 @@ h3{
             margin-left:0%;
       padding-left:0%;
   }
-     .up1, .up2, .up3 img{
+     .up1, .up2 img{
          margin-left:0%;
+       padding-left:0%;
+    }
+      .up3 img{
+        margin-left:0%;
        padding-left:0%;
     }
   .flexingcert{
@@ -1218,8 +1238,12 @@ h3{
             margin-left:0%;
       padding-left:0%;
   }
-     .up1, .up2, .up3 img{
+     .up1, .up2 img{
          margin-left:0%;
+       padding-left:0%;
+    }
+      .up3 img{
+        margin-left:0%;
        padding-left:0%;
     }
   .aviflex{
