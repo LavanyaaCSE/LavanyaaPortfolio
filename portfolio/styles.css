@@ -891,7 +891,7 @@ h3{
     display: none;
    }
      .flex {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
@@ -915,7 +915,7 @@ h3{
           width:85%;
   }
     .flex {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
@@ -1009,8 +1009,8 @@ h3{
     margin-left: 0%;
           width:85%;
   }
-    .flex {
-        flex-direction: column;
+      .flex {
+        flex-direction: row;
         align-items: center;
     }
 
@@ -1096,8 +1096,8 @@ h3{
     margin-bottom: 0%;
     justify-content: center;
   }
-    .flex {
-        flex-direction: column;
+  .flex {
+        flex-direction: row;
         align-items: center;
     }
 
@@ -1187,8 +1187,8 @@ h3{
     margin-bottom: 0%;
     justify-content: center;
   }
-    .flex {
-        flex-direction: column;
+  .flex {
+        flex-direction: row;
         align-items: center;
     }
 
@@ -1280,8 +1280,8 @@ h3{
     margin-bottom: 0%;
     justify-content: center;
   }
-    .flex {
-        flex-direction: column;
+  .flex {
+        flex-direction: row;
         align-items: center;
     }
 
