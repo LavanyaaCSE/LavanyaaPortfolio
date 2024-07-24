@@ -5,10 +5,15 @@ body {
     background-color: #000000;
     overflow-x: hidden;
   }
+@media (max-width: 600px) {
+  .imgplace img {
+    width: 100%; 
+    height: auto; 
+  }
   .navbar {
       left: 0;
       background-color: black;
-      padding: 30px;
+     padding: 20px 0;
       color: #ff99cc;
       text-shadow: 2px 2px 2px #ff99cc;
       width: 100%;
@@ -124,7 +129,7 @@ body {
     text-decoration: none;
 }
 .details{
-  margin-top: 8%;
+  margin-top: 5%;
 }
 
 .imgflex{
@@ -878,9 +883,7 @@ h3{
     display: flex;
     flex-direction: column;
   }
-  .imgplace img{
-    display: none;
-  }
+
   .details h1{
     font-size: 66px;
   }
@@ -953,9 +956,7 @@ h3{
     display: flex;
     flex-direction: column;
   }
-  .imgplace img{
-    display: none;
-  }
+
   .pro1, .pro2, .pro3, .pro4, .pro5, .pro6, .pro7, .pro8, .pro9, .pro10, .pro11{
     display: flex;
     flex-direction: column;
@@ -1036,9 +1037,7 @@ h3{
     display: flex;
     flex-direction: column;
   }
-  .imgplace img{
-    display: none;
-  }
+
   .pro1, .pro2, .pro3, .pro4, .pro5, .pro6, .pro7, .pro8, .pro9, .pro10, .pro11{
     display: flex;
     flex-direction: column;
@@ -1100,9 +1099,7 @@ h3{
     display: flex;
     flex-direction: column;
   }
-  .imgplace img{
-    display: none;
-  }
+
   .aviflex{
     display: flex;
     flex-direction: column;
@@ -1199,9 +1196,7 @@ h3{
     display: flex;
     flex-direction: column;
   }
-  .imgplace img{
-    display: none;
-  }
+
   .details h1{
     font-size: 66px;
   }
@@ -1275,9 +1270,7 @@ h3{
     display: flex;
     flex-direction: column;
   }
-  .imgplace img{
-    display: none;
-  }
+
   .pro1, .pro2, .pro3, .pro4, .pro5, .pro6, .pro7, .pro8, .pro9, .pro10, .pro11{
     display: flex;
     flex-direction: column;
