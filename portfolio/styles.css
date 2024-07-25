@@ -630,10 +630,9 @@ h3{
         }
 
 .up{
-  justify-content: space-around;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
+ display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
 }
 .up img{
   width: 320px;
