@@ -558,7 +558,7 @@ h3{
             font-size: 22px;
             font-weight: 700;
             letter-spacing: 2px;
-            text-transform: uppercase;
+            text-transform: percase;
             margin: 0 0 8px;
         }
         .Yearly-timeline .description{
@@ -632,8 +632,8 @@ h3{
 .up{
   display: flex;
   flex-direction: row;
-    align-items:center;
-    justify-content: center;
+    margin-left:10%;
+    margin-right:10%;
 }
 .up img{
   width: 320px;
