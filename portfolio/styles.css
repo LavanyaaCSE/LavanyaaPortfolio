@@ -632,8 +632,10 @@ h3{
 .up{
   display: flex;
   flex-direction: row;
-  margin-left: auto;
-  margin-right: auto;
+}
+.up1, .up2, .up3{
+    margin-left:10%;
+    margin-right:10%;
 }
 .up img{
   width: 320px;
