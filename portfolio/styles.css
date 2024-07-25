@@ -630,9 +630,10 @@ h3{
         }
 
 .up{
-  display: flex;
-  flex-direction: row;
-      justify-content: center;
+  justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
 }
 .up img{
   width: 320px;
